@@ -8,6 +8,22 @@ Felipe de Queiroz de Souza (felpaojoj@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Link do artigo: https://cse.sc.edu/~mgv/csce190f18/diPierro_mcs2017050092.pdf
 
+Fichamento: "What Is the Blockchain?" por Massimo Di Pierro
+
+O artigo de Di Pierro oferece uma introdução acessível à tecnologia blockchain, destacando seu potencial revolucionário além das criptomoedas. A explicação do autor sobre o problema fundamental que o blockchain resolve - estabelecer confiança em sistemas distribuídos - é particularmente esclarecedora. Ele ilustra de forma eficaz como esta tecnologia supera as limitações das assinaturas digitais tradicionais, especialmente em relação à verificação temporal.
+
+A analogia com a venda de casas para explicar a importância da ordem das transações é bastante eficaz, tornando o conceito mais tangível para leitores não técnicos. No entanto, o autor poderia ter explorado mais profundamente as implicações sociais e econômicas desta mudança de paradigma na confiança.
+
+A explicação técnica sobre funções hash e a implementação básica em Python são valiosas, mas podem ser desafiadoras para leitores sem conhecimento de programação. Ainda assim, esses exemplos práticos ajudam a desmistificar o funcionamento interno do blockchain.
+
+O ponto forte do artigo está na discussão sobre as aplicações potenciais do blockchain além das criptomoedas. Di Pierro apresenta uma visão equilibrada, reconhecendo o potencial disruptivo da tecnologia em diversos setores, como registro de propriedades e contratos inteligentes, sem cair em um otimismo exagerado.
+
+A breve menção aos desafios técnicos e de implementação (como algoritmos de distribuição de dados e resolução de conflitos) é pertinente, mas poderia ter sido mais desenvolvida. Uma discussão mais aprofundada sobre as limitações e potenciais desvantagens do blockchain teria enriquecido a análise.
+
+A conclusão do autor sobre o impacto do blockchain no mercado de trabalho é provocativa, sugerindo uma transformação significativa semelhante à automação industrial. No entanto, falta uma análise mais detalhada das implicações sociais e éticas dessa mudança.
+
+Em suma, o artigo de Di Pierro oferece uma introdução sólida e acessível ao blockchain, equilibrando explicações técnicas com discussões sobre aplicações práticas. Embora não mergulhe profundamente em todas as complexidades e desafios, serve como um excelente ponto de partida para entender esta tecnologia transformadora e suas potenciais implicações para o futuro das transações digitais e da confiança distribuída.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Explicação prévia/resumida:
 
