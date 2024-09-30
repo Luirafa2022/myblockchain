@@ -20,7 +20,7 @@ Esta aplicação é uma implementação básica de uma blockchain em JavaScript.
 
 A blockchain é representada por uma classe que contém uma cadeia de blocos e transações pendentes. Cada bloco contém um índice, timestamp, dados (transações), hash anterior e seu próprio hash. A prova de trabalho é implementada através de um algoritmo simples que busca um hash com um número específico de zeros no início.
 
-Aqui está o código da aplicação em JavaScript:
+Aqui está o código da aplicação:
 
 ```javascript
 const crypto = require('crypto');
