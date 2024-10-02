@@ -3,6 +3,8 @@ Professor, Bruno Zolotareff dos Santos (https://www.linkedin.com/in/bzsantos/)
 
 Luiz Antônio costa de Lima (luiz.antonio.c.lima@gmail.com)
 
+Lucas Martins da Fonseca (lucas105.lucasfree@gmail.com)
+
 Felipe de Queiroz de Souza (felpaojoj@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
